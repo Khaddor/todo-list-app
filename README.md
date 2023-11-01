@@ -2,7 +2,7 @@
 
 |   Nom   | Prénom |
 |---------|--------|
-|   Doe   |  Jane  |
+|   KHADDOR  |  el Mehdi  |
 
 Le TP est à réaliser individuellement.
 
